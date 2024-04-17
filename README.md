@@ -66,6 +66,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions or suggestions, feel free to contact me:
 
-- Email: [your@email.com](mailto:your@email.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
+- Email: [gershom94@gmail.com]
+- LinkedIn: [Gershom Ejoni](https://www.linkedin.com/in/gershom-ejoni/)
+
